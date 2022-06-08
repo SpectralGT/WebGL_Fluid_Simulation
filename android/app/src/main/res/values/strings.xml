@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Fluid Simulation</string>
+    <string name="title_activity_main">Fluid Simulation</string>
+    <string name="package_name">com.SpectralGT.FluidSimulation</string>
+    <string name="custom_url_scheme">com.SpectralGT.FluidSimulation</string>
+</resources>

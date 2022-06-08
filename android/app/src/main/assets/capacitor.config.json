@@ -1,0 +1,6 @@
+{
+	"appId": "com.SpectralGT.FluidSimulation",
+	"appName": "Fluid Simulation",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

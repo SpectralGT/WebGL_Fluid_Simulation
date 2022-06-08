@@ -126,7 +126,7 @@ function startGUI () {
     gui.add(config, 'CURL', 0, 50).name('vorticity').step(1);
     gui.add(config, 'SPLAT_RADIUS', 0.0001, 0.01).name('splat radius');
 
-    let randomSplats = gui.add({ fun: () => {
+    gui.add({ fun: () => {
             splatStack.push(Math.trunc(Math.random() * 20) + 5);
         }
     }, 'fun').name('Random splats');
